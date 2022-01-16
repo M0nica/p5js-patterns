@@ -1,6 +1,6 @@
 # p5.js
 
-Notes on random [p5.js](https://p5js.org/) patterns
+Notes on random [p5.js](https://p5js.org/) coding patterns
 
 ## Table of Contents
 - [Positioning Elements](#positioning-elements)
